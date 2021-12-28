@@ -1,4 +1,4 @@
-# Friend_API_TEST
+# Задание 3
 
 
 ![image](https://user-images.githubusercontent.com/92590831/145266530-9afb47cf-7964-466c-8ce4-9c82da52fbdd.png)
